@@ -1,10 +1,10 @@
 
 # Jupyter Washer
-A module that helps you prettify the scripts exported from Jupyter Notebook.
+A module that helps you prettify the scripts exported from Jupyter Notebook, and pretend that you haven't used Jupyter Notebook as an IDE.
 
 
 
-## Why necessary
+## Why is it necessary
 
 A script exported from Jupyter Notebook tends to look like this:
 
