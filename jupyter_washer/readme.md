@@ -4,7 +4,7 @@ A module that helps you prettify the scripts exported from Jupyter Notebook, and
 
 
 
-## Why is it necessary
+## Why it is necessary
 
 A script exported from Jupyter Notebook tends to look like this:
 
